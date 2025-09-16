@@ -65,5 +65,5 @@ Real-time anomaly detection
 AI-powered safety systems
 
 
-TO INSTALL OTHER MODULE USE 
+TO INSTALL OTHER PYTHON MODULE AND RUN THIS
 pip install flask flask-socketio eventlet tensorflow numpy matplotlib
