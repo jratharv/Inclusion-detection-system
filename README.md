@@ -63,3 +63,7 @@ Industrial process monitoring
 Real-time anomaly detection
 
 AI-powered safety systems
+
+
+TO INSTALL OTHER MODULE USE 
+pip install flask flask-socketio eventlet tensorflow numpy matplotlib
